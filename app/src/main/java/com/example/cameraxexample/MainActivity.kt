@@ -22,7 +22,6 @@ import java.util.*
 
 class MainActivity : AppCompatActivity() {
     private lateinit var viewBinding: ActivityMainBinding
-
     private  lateinit var cameraController: LifecycleCameraController
 
     override fun onCreate(savedInstanceState: Bundle?) {
